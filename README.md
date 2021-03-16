@@ -13,7 +13,7 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 ## Overview
 
-![screenshot]();
+![screenshot](https://github.com/CamiloRodriguezG/shortly-url-shortening-api-challenge/blob/master/preview.jpg);
 
 ### The challenge
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/url-shortering-api-landing-page-A4TJ2KFGW)
+- Live Site URL: [live site](https://clever-curran-381a9d.netlify.app/)
 
 ### Built with
 
